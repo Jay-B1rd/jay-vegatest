@@ -1,0 +1,26 @@
+#topbanner {
+    border-bottom: 5px solid black;
+}
+
+#sidebar {
+    border-right: 5px solid black;
+    width: 15%
+}
+
+.sideicons {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    display: inline;
+}
+
+div {
+    display: inline;
+}
